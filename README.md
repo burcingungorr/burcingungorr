@@ -7,7 +7,8 @@
 
 ### 💻 Languages and Tools:
 
-- 🟨 JavaScript  
+- 🟨 JavaScript
+- 🟨 TypeScript
 - 💾 SQL  
 - 📱 Flutter  
 - 🐘 PHP  
