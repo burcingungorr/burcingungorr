@@ -7,8 +7,10 @@
 
 ### 💻 Languages and Tools:
 
+- ⚛️ React  
+- 📱 React Native
 - 🟨 JavaScript
-- 🟨 TypeScript
+- 🟦 TypeScript
 - 💾 SQL  
 - 📱 Flutter  
 - 🐘 PHP  
@@ -16,8 +18,8 @@
 - 🐍 Python  
 - 🔥 Firebase  
 - 🌐 HTML & CSS  
-- ⚛️ React  
-- 📱 React Native  
+- ⏭️ Next.js
+- 🅰️ Angular
 
 ---
 
